@@ -40,6 +40,7 @@ var styles = StyleSheet.create({
         marginHorizontal: 10,
         marginVertical: 10,
         padding: 10,
+        elevation: 4
         
     }
 });
